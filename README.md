@@ -25,4 +25,5 @@ A simple implementation of a blockchain in Python using Flask. This project demo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/laban254/BasicBlockchain.git
+   git clone https://github.com/laban254/SimpleBlockchain
+Public.git
